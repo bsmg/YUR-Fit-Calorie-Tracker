@@ -10,6 +10,7 @@ This repository doesn't contain any code or builds, and is simply third-party do
 - Tracks calories burnt in each map/difficulty and in the menu
 - Displays your current progression, experience points, calories burned, and other statistics as an in-game overlay
 - Connects to the YUR Steam app to automatically login to an existing YUR account
+- Optionally pairs with various heart rate monitors for accurate tracking
 - Supports switching between multiple YUR accounts
 - Uploads your fitness metrics, accessible on the YUR website or apps
 
